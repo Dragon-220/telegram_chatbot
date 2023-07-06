@@ -6,7 +6,9 @@ Telegram-bot (Python, [aiogram](https://aiogram.dev/), [OpenAI API](https://plat
 
 The simplest telegram bot for dialogue with ChatGPT.  
 Most capable GPT-3.5 model ([gpt-3.5-turbo](https://platform.openai.com/docs/models/gpt-3-5)) and optimized for chat.  
+
 Requires OpenAI API token for authorization.  
+
 Prepared for deployment on [Railway](https://railway.app/)  
 
 ### [Rapid deployment on Railway](https://railway.app/template/-S3lVz?referralCode=jUyx2Z)
